@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\TicTacToeUsingFacadeDP\TicTacToeUsingFacadeDP\bin\Debug\TicTacToeUsingFacadeDP.exe.config
+C:\Users\ASUS\source\repos\TicTacToeUsingFacadeDP\TicTacToeUsingFacadeDP\bin\Debug\TicTacToeUsingFacadeDP.exe
+C:\Users\ASUS\source\repos\TicTacToeUsingFacadeDP\TicTacToeUsingFacadeDP\bin\Debug\TicTacToeUsingFacadeDP.pdb
+C:\Users\ASUS\source\repos\TicTacToeUsingFacadeDP\TicTacToeUsingFacadeDP\obj\Debug\TicTacToeUsingFacadeDP.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\TicTacToeUsingFacadeDP\TicTacToeUsingFacadeDP\obj\Debug\TicTacToeUsingFacadeDP.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\TicTacToeUsingFacadeDP\TicTacToeUsingFacadeDP\obj\Debug\TicTacToeUsingFacadeDP.exe
+C:\Users\ASUS\source\repos\TicTacToeUsingFacadeDP\TicTacToeUsingFacadeDP\obj\Debug\TicTacToeUsingFacadeDP.pdb
