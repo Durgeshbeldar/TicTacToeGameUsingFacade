@@ -33,7 +33,7 @@ namespace TicTacToeUsingFacadeDP.Presentation
             for (int i = 0; i < Grid.Length; i++) 
             {
                if (Grid[i].Mark == MarkType.EMPTY)
-                displayGrid[i] = (i + 1).ToString();
+                displayGrid[i] = " ";
                else
                 displayGrid[i] = Grid[i].Mark.ToString();
             }

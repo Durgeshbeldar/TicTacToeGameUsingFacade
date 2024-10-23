@@ -3,31 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\TicTacToeUsingFacadeDP\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9E526DE9-2039-4244-977E-5AB64F249729}|TicTacToeUsingFacadeDP\\TicTacToeUsingFacadeDP.csproj|C:\\Users\\ASUS\\source\\repos\\TicTacToeUsingFacadeDP\\tictactoeusingfacadedp\\presentation\\gameui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E526DE9-2039-4244-977E-5AB64F249729}|TicTacToeUsingFacadeDP\\TicTacToeUsingFacadeDP.csproj|solutionrelative:tictactoeusingfacadedp\\presentation\\gameui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E526DE9-2039-4244-977E-5AB64F249729}|TicTacToeUsingFacadeDP\\TicTacToeUsingFacadeDP.csproj|C:\\Users\\ASUS\\source\\repos\\TicTacToeUsingFacadeDP\\tictactoeusingfacadedp\\presentation\\printboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E526DE9-2039-4244-977E-5AB64F249729}|TicTacToeUsingFacadeDP\\TicTacToeUsingFacadeDP.csproj|solutionrelative:tictactoeusingfacadedp\\presentation\\printboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9E526DE9-2039-4244-977E-5AB64F249729}|TicTacToeUsingFacadeDP\\TicTacToeUsingFacadeDP.csproj|c:\\users\\asus\\source\\repos\\tictactoeusingfacadedp\\tictactoeusingfacadedp\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E526DE9-2039-4244-977E-5AB64F249729}|TicTacToeUsingFacadeDP\\TicTacToeUsingFacadeDP.csproj|solutionrelative:tictactoeusingfacadedp\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E526DE9-2039-4244-977E-5AB64F249729}|TicTacToeUsingFacadeDP\\TicTacToeUsingFacadeDP.csproj|c:\\users\\asus\\source\\repos\\tictactoeusingfacadedp\\tictactoeusingfacadedp\\presentation\\gameui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E526DE9-2039-4244-977E-5AB64F249729}|TicTacToeUsingFacadeDP\\TicTacToeUsingFacadeDP.csproj|solutionrelative:tictactoeusingfacadedp\\presentation\\gameui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E526DE9-2039-4244-977E-5AB64F249729}|TicTacToeUsingFacadeDP\\TicTacToeUsingFacadeDP.csproj|c:\\users\\asus\\source\\repos\\tictactoeusingfacadedp\\tictactoeusingfacadedp\\presentation\\printboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E526DE9-2039-4244-977E-5AB64F249729}|TicTacToeUsingFacadeDP\\TicTacToeUsingFacadeDP.csproj|solutionrelative:tictactoeusingfacadedp\\presentation\\printboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E526DE9-2039-4244-977E-5AB64F249729}|TicTacToeUsingFacadeDP\\TicTacToeUsingFacadeDP.csproj|c:\\users\\asus\\source\\repos\\tictactoeusingfacadedp\\tictactoeusingfacadedp\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9E526DE9-2039-4244-977E-5AB64F249729}|TicTacToeUsingFacadeDP\\TicTacToeUsingFacadeDP.csproj|C:\\Users\\ASUS\\source\\repos\\TicTacToeUsingFacadeDP\\tictactoeusingfacadedp\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E526DE9-2039-4244-977E-5AB64F249729}|TicTacToeUsingFacadeDP\\TicTacToeUsingFacadeDP.csproj|solutionrelative:tictactoeusingfacadedp\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E526DE9-2039-4244-977E-5AB64F249729}|TicTacToeUsingFacadeDP\\TicTacToeUsingFacadeDP.csproj|c:\\users\\asus\\source\\repos\\tictactoeusingfacadedp\\tictactoeusingfacadedp\\models\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9E526DE9-2039-4244-977E-5AB64F249729}|TicTacToeUsingFacadeDP\\TicTacToeUsingFacadeDP.csproj|C:\\Users\\ASUS\\source\\repos\\TicTacToeUsingFacadeDP\\tictactoeusingfacadedp\\models\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E526DE9-2039-4244-977E-5AB64F249729}|TicTacToeUsingFacadeDP\\TicTacToeUsingFacadeDP.csproj|solutionrelative:tictactoeusingfacadedp\\models\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E526DE9-2039-4244-977E-5AB64F249729}|TicTacToeUsingFacadeDP\\TicTacToeUsingFacadeDP.csproj|c:\\users\\asus\\source\\repos\\tictactoeusingfacadedp\\tictactoeusingfacadedp\\models\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9E526DE9-2039-4244-977E-5AB64F249729}|TicTacToeUsingFacadeDP\\TicTacToeUsingFacadeDP.csproj|C:\\Users\\ASUS\\source\\repos\\TicTacToeUsingFacadeDP\\tictactoeusingfacadedp\\models\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E526DE9-2039-4244-977E-5AB64F249729}|TicTacToeUsingFacadeDP\\TicTacToeUsingFacadeDP.csproj|solutionrelative:tictactoeusingfacadedp\\models\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E526DE9-2039-4244-977E-5AB64F249729}|TicTacToeUsingFacadeDP\\TicTacToeUsingFacadeDP.csproj|c:\\users\\asus\\source\\repos\\tictactoeusingfacadedp\\tictactoeusingfacadedp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9E526DE9-2039-4244-977E-5AB64F249729}|TicTacToeUsingFacadeDP\\TicTacToeUsingFacadeDP.csproj|C:\\Users\\ASUS\\source\\repos\\TicTacToeUsingFacadeDP\\tictactoeusingfacadedp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E526DE9-2039-4244-977E-5AB64F249729}|TicTacToeUsingFacadeDP\\TicTacToeUsingFacadeDP.csproj|solutionrelative:tictactoeusingfacadedp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TicTacToeUsingFacadeDP\\TicTacToeUsingFacadeDP\\Models\\Player.cs",
               "RelativeDocumentMoniker": "TicTacToeUsingFacadeDP\\Models\\Player.cs",
@@ -63,8 +63,7 @@
               "RelativeToolTip": "TicTacToeUsingFacadeDP\\Models\\Board.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T16:44:50.727Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-20T16:44:50.727Z"
             },
             {
               "$type": "Document",
@@ -76,18 +75,17 @@
               "RelativeToolTip": "TicTacToeUsingFacadeDP\\Models\\Cell.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T16:38:32.783Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-20T16:38:32.783Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "PrintBoard.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TicTacToeUsingFacadeDP\\TicTacToeUsingFacadeDP\\Presentation\\PrintBoard.cs",
               "RelativeDocumentMoniker": "TicTacToeUsingFacadeDP\\Presentation\\PrintBoard.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\TicTacToeUsingFacadeDP\\TicTacToeUsingFacadeDP\\Presentation\\PrintBoard.cs",
               "RelativeToolTip": "TicTacToeUsingFacadeDP\\Presentation\\PrintBoard.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-20T16:31:51.072Z",
               "EditorCaption": ""
@@ -102,8 +100,7 @@
               "RelativeToolTip": "TicTacToeUsingFacadeDP\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T16:09:18.501Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-20T16:09:18.501Z"
             },
             {
               "$type": "Document",
@@ -115,18 +112,17 @@
               "RelativeToolTip": "TicTacToeUsingFacadeDP\\Controllers\\GameController.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAgwCsAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T15:16:30.363Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-20T15:16:30.363Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "GameUI.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TicTacToeUsingFacadeDP\\TicTacToeUsingFacadeDP\\Presentation\\GameUI.cs",
               "RelativeDocumentMoniker": "TicTacToeUsingFacadeDP\\Presentation\\GameUI.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\TicTacToeUsingFacadeDP\\TicTacToeUsingFacadeDP\\Presentation\\GameUI.cs",
               "RelativeToolTip": "TicTacToeUsingFacadeDP\\Presentation\\GameUI.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwEsAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwEsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-20T15:06:13.217Z",
               "EditorCaption": ""
